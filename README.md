@@ -1,6 +1,6 @@
 # Project-006 : Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation
 
-A06-Deployment-of-static-web-page-using-AWS-S3-Cloudfront-Route53-Cloudformation
+Ln-A06-Deployment-of-static-web-page-using-AWS-S3-Cloudfront-Route53-Cloudformation
 
 ## Description
 
