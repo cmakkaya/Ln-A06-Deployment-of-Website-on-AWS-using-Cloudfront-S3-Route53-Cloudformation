@@ -1,10 +1,10 @@
 # Project-006 : Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation
 
-A06-Deployment-of-static-web-page-using-AWS-S3-Cloudfront-Route53-Cloudformation
+Ln-A06-Deployment-of-static-web-page-using-AWS-S3-Cloudfront-Route53-Cloudformation
 
 ## Description
 
-Kittens Carousel is a static website application deployed on AWS Simple Storage Service (S3), served through Cloudfront and Route 53 using AWS Cloudformation Service.
+Web pages is a static website application deployed on AWS Simple Storage Service (S3), served through Cloudfront and Route 53 using AWS Cloudformation Service.
 
 ## Problem Statement
 
@@ -65,7 +65,7 @@ Kittens Carousel is a static website application deployed on AWS Simple Storage 
 ## Project Skeleton
 
 ```text
-006-kittens-carousel-static-web-s3-cf (folder)
+006-static-web-s3-cf (folder)
 |
 |----readme.md              # Given to the DevOps staff (Definition of the project)
 |----cfn-template.yml       # To be delivered by DevOps staff (Cloudformation template)
@@ -79,7 +79,7 @@ Kittens Carousel is a static website application deployed on AWS Simple Storage 
 
 ## Expected Outcome
 
-![Project 101 : Kittens Carousel Application Snapshot](./project-006-snapshot.png)
+![Project 101 : Application Snapshot](./project-006-snapshot.png)
 
 ### At the end of the project, following topics are to be covered;
 
